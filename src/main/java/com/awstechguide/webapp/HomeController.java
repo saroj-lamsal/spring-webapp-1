@@ -13,9 +13,6 @@ import com.awstechguide.webapp.service.ProductService;
 @Controller
 public class HomeController {
 
-	@Autowired
-	private ProductService productService;
-	
 	@GetMapping("/home")
 	public String home(Model model) {
 		model.addAttribute("message", "Finally!It is Working!!");
