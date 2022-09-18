@@ -4,11 +4,10 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>DILISHA SHRESTHA</title>
+<title>Bidushan Adhikari</title>
 </head>
 <body>
-<h1>DILISHA SHRESTHA</h1>
-<h2><a href="https://www.dilisha.com.np/" >Click here </a>PLEASE VISIT MY WEBSITE</h2>
+<h1>Bidushan Adhikari</h1>
 <h1>${message}</h1>
     <h2>OKAY BYE!!</h2>
 </body>
