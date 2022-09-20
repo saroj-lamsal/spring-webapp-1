@@ -5,4 +5,4 @@
   tasks:
 
     - name: Unzip WAR file
-      unarchive: src=/var/lib/jenkins/workspace/project3/target/webapptest.war dest=/usr/local/tomcat/webapps/project3
+      unarchive: src=/var/lib/jenkins/workspace/project3/target/webapptest.war dest=/usr/local/tomcat/webapps/project3/
