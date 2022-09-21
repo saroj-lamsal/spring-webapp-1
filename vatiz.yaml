@@ -5,4 +5,4 @@
   tasks:
 
     - name: Unzip WAR file
-      copy: src=/var/lib/jenkins/workspace/project3/target/webapptest.war dest=/opt/tomcat/webapps
+      copy: src=/var/lib/jenkins/workspace/project/target/webapptest.war dest=/opt/tomcat/webapps
